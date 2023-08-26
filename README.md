@@ -1,4 +1,4 @@
-# pruebaExpress
+# Ejercicio con Nodejs
 backend
 
 ## Installation
